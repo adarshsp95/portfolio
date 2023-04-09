@@ -1,0 +1,101 @@
+
+
+.navbarclass{
+   z-index: 100;
+}
+#navbar-example2{
+    position: sticky;
+    top: 0;
+    background-color: rgb(52, 51, 51);
+}
+.navbar .navbar-brand{
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    margin-left: 3%;
+   
+}
+.nav-link{
+    color: white;
+}
+
+
+p{
+    font-size: larger;
+}
+h1{
+    text-transform: uppercase;
+}
+.image_dp{
+    width: 300px;
+    position: relative;
+    z-index: 50;
+    
+    
+}
+.col-7{
+    margin-left: 5%;
+}
+.col-5{
+    margin-top: 0%;
+    margin-left: 60%;
+   
+}
+
+
+.skill_list{
+    font-size: larger;
+
+}
+
+.nav-pills .nav-link.active{
+    color: black;
+    background-color: white;
+    font-weight: bold;
+}
+.container{
+    width: 75%;
+    height: 100px;
+    /* background-color: greenyellow; */
+    display: flex;
+    flex-direction: column;
+
+
+}
+.moviegallery{
+    background-color: black;
+    width: 100px;
+    height: 100px;
+}
+.luminar{
+    background-color: rgb(0, 0, 0);
+    width: 100px;
+    height: 100px;
+
+
+}
+.book{
+    background-color: rgb(159, 16, 16);
+    width: 100px;
+    height: 100px;
+
+}
+.mywork{
+    font-size: 40px;
+    
+}
+.contactme{
+    text-align: center;
+    font-size: 40px;
+}
+.iconsdiv i{
+    padding: 15px;
+
+}
+footer{
+    text-align: center;
+    margin-top: 50px;
+    background-color:  rgb(52, 51, 51);
+    color: white;
+    height: 80px;
+}
